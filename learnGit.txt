@@ -1,2 +1,4 @@
-Anton age is 21 year old
-Yanto age is 21 year old
+BIODATA ANTON
+Tinggi 175
+BB 55
+
